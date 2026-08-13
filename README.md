@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/dc027589-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/dc027589-rgb/DSA/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
