@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc027589-rgb/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/dc027589-rgb/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/dc027589-rgb/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dc027589-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
 | [0525-contiguous-array](https://github.com/dc027589-rgb/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dc027589-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc027589-rgb/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
