@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc027589-rgb/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
+| [0152-maximum-product-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/dc027589-rgb/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/dc027589-rgb/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dc027589-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/dc027589-rgb/DSA/tree/master/1669-merge-in-between-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
