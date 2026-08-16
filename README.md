@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/dc027589-rgb/DSA/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
