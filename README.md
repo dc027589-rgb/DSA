@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
 | [0525-contiguous-array](https://github.com/dc027589-rgb/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dc027589-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dc027589-rgb/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
