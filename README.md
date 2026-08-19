@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc027589-rgb/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/dc027589-rgb/DSA/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
 | [0152-maximum-product-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/dc027589-rgb/DSA/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dc027589-rgb/DSA/tree/master/0016-3sum-closest) |
 | [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
 ## String
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/dc027589-rgb/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
