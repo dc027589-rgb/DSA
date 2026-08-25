@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/dc027589-rgb/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dc027589-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dc027589-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/dc027589-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dc027589-rgb/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -37,16 +38,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dc027589-rgb/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/dc027589-rgb/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dc027589-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/dc027589-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dc027589-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dc027589-rgb/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc027589-rgb/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dc027589-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/dc027589-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dc027589-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
