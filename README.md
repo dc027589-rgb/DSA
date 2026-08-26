@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/dc027589-rgb/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dc027589-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dc027589-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/dc027589-rgb/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/dc027589-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dc027589-rgb/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/dc027589-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dc027589-rgb/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
