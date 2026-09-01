@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dc027589-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dc027589-rgb/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/dc027589-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0867-transpose-matrix](https://github.com/dc027589-rgb/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/dc027589-rgb/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
+| [0867-transpose-matrix](https://github.com/dc027589-rgb/DSA/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dc027589-rgb/DSA/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/dc027589-rgb/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
