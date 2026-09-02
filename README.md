@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/dc027589-rgb/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/dc027589-rgb/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0962-maximum-width-ramp](https://github.com/dc027589-rgb/DSA/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dc027589-rgb/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dc027589-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dc027589-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
+| [0962-maximum-width-ramp](https://github.com/dc027589-rgb/DSA/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
 | ------- |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/dc027589-rgb/DSA/tree/master/0867-transpose-matrix) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/dc027589-rgb/DSA/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/dc027589-rgb/DSA/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
