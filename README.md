@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dc027589-rgb/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dc027589-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dc027589-rgb/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2401-longest-nice-subarray](https://github.com/dc027589-rgb/DSA/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dc027589-rgb/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/dc027589-rgb/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dc027589-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dc027589-rgb/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2401-longest-nice-subarray](https://github.com/dc027589-rgb/DSA/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dc027589-rgb/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/dc027589-rgb/DSA/tree/master/0371-sum-of-two-integers) |
+| [2401-longest-nice-subarray](https://github.com/dc027589-rgb/DSA/tree/master/2401-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
