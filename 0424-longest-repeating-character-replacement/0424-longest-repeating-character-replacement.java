@@ -1,30 +1,24 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int l=0;
-        int h=0;
-        int maxCount=0;
-        int maxLength =0;
-        HashMap<Character,Integer> map = new HashMap<>();
+        int l = 0;
+        int maxCount = 0;
+        int maxLength = 0;
+        int[] freq = new int[26];
 
-        while(h<s.length()){
+        for (int h = 0; h < s.length(); h++) {
             char ch = s.charAt(h);
-            map.put(ch,map.getOrDefault(ch,0)+1);
+            freq[ch - 'A']++;
+            maxCount = Math.max(maxCount, freq[ch - 'A']);
 
-            maxCount = Math.max(maxCount,map.get(ch));
-
-
-            while((h-l+1) - maxCount > k){
-                char lt = s.charAt(l);
-                map.put(lt,map.get(lt)-1);
+            
+            while ((h - l + 1) - maxCount > k) {
+                freq[s.charAt(l) - 'A']--;
                 l++;
             }
-            maxLength= Math.max(maxLength,h-l+1);
 
-           
-            h++;
-
+            maxLength = Math.max(maxLength, h - l + 1);
         }
+
         return maxLength;
-        
     }
 }
