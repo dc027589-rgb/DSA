@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/dc027589-rgb/DSA/tree/master/0371-sum-of-two-integers) |
 | [2235-add-two-integers](https://github.com/dc027589-rgb/DSA/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dc027589-rgb/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/dc027589-rgb/DSA/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
