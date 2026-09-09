@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dc027589-rgb/DSA/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/dc027589-rgb/DSA/tree/master/0371-sum-of-two-integers) |
 | [2235-add-two-integers](https://github.com/dc027589-rgb/DSA/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dc027589-rgb/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dc027589-rgb/DSA/tree/master/0002-add-two-numbers) |
 | [1669-merge-in-between-linked-lists](https://github.com/dc027589-rgb/DSA/tree/master/1669-merge-in-between-linked-lists) |
 ## Dynamic Programming
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dc027589-rgb/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dc027589-rgb/DSA/tree/master/1189-maximum-number-of-balloons) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dc027589-rgb/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
