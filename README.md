@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dc027589-rgb/DSA/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/dc027589-rgb/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/dc027589-rgb/DSA/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0962-maximum-width-ramp](https://github.com/dc027589-rgb/DSA/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dc027589-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc027589-rgb/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dc027589-rgb/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dc027589-rgb/DSA/tree/master/0056-merge-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -208,4 +211,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dc027589-rgb/DSA/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
