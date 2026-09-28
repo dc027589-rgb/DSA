@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dc027589-rgb/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dc027589-rgb/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2401-longest-nice-subarray](https://github.com/dc027589-rgb/DSA/tree/master/2401-longest-nice-subarray) |
+| [2594-minimum-time-to-repair-cars](https://github.com/dc027589-rgb/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dc027589-rgb/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/dc027589-rgb/DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dc027589-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dc027589-rgb/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2594-minimum-time-to-repair-cars](https://github.com/dc027589-rgb/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Math
 |  |
 | ------- |
