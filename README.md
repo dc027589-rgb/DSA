@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dc027589-rgb/DSA/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/dc027589-rgb/DSA/tree/master/0061-rotate-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/dc027589-rgb/DSA/tree/master/1669-merge-in-between-linked-lists) |
 ## Dynamic Programming
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/dc027589-rgb/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dc027589-rgb/DSA/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/dc027589-rgb/DSA/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dc027589-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
