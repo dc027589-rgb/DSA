@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dc027589-rgb/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dc027589-rgb/DSA/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/dc027589-rgb/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dc027589-rgb/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dc027589-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dc027589-rgb/DSA/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/dc027589-rgb/DSA/tree/master/0371-sum-of-two-integers) |
 | [2401-longest-nice-subarray](https://github.com/dc027589-rgb/DSA/tree/master/2401-longest-nice-subarray) |
 ## Divide and Conquer
@@ -273,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dc027589-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/dc027589-rgb/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/dc027589-rgb/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
