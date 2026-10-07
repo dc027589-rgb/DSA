@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc027589-rgb/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/dc027589-rgb/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dc027589-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dc027589-rgb/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/dc027589-rgb/DSA/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/dc027589-rgb/DSA/tree/master/0148-sort-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/dc027589-rgb/DSA/tree/master/1669-merge-in-between-linked-lists) |
 ## Dynamic Programming
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dc027589-rgb/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dc027589-rgb/DSA/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/dc027589-rgb/DSA/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/dc027589-rgb/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dc027589-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dc027589-rgb/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dc027589-rgb/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dc027589-rgb/DSA/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/dc027589-rgb/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dc027589-rgb/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/dc027589-rgb/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
