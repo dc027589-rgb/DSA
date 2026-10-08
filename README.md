@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dc027589-rgb/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/dc027589-rgb/DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/dc027589-rgb/DSA/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/dc027589-rgb/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dc027589-rgb/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dc027589-rgb/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dc027589-rgb/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dc027589-rgb/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/dc027589-rgb/DSA/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/dc027589-rgb/DSA/tree/master/0962-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/dc027589-rgb/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dc027589-rgb/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dc027589-rgb/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dc027589-rgb/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dc027589-rgb/DSA/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/dc027589-rgb/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
