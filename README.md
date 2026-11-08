@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dc027589-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/dc027589-rgb/DSA/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dc027589-rgb/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1267-count-servers-that-communicate](https://github.com/dc027589-rgb/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dc027589-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dc027589-rgb/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dc027589-rgb/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/dc027589-rgb/DSA/tree/master/0036-valid-sudoku) |
 | [0867-transpose-matrix](https://github.com/dc027589-rgb/DSA/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/dc027589-rgb/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Linked List
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dc027589-rgb/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dc027589-rgb/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/dc027589-rgb/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Recursion
 |  |
 | ------- |
@@ -284,4 +287,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dc027589-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/dc027589-rgb/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dc027589-rgb/DSA/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/dc027589-rgb/DSA/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/dc027589-rgb/DSA/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/dc027589-rgb/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
